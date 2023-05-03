@@ -1,0 +1,6 @@
+2023/05/03-13:56:09.477 1e28 Creating DB D:/CG_Spectrum/Collab/Student_CollabProject/Student_Collab/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/05/03-13:56:09.486 1e28 Reusing MANIFEST D:/CG_Spectrum/Collab/Student_CollabProject/Student_Collab/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/03-14:01:46.576 2b58 Level-0 table #5: started
+2023/05/03-14:01:46.582 2b58 Level-0 table #5: 8213 bytes OK
+2023/05/03-14:01:46.584 2b58 Delete type=0 #3
+2023/05/03-14:01:46.584 2b58 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
